@@ -7,7 +7,7 @@ i. Linear Regression: Utilizes a single-variable linear regression model to pred
 ii. Gradient Descent: Employs gradient descent to optimize the model's parameters.
 iii. Visualization: Plots data and regression line for visual analysis.
 
-3.Dataset:
+3. Dataset:
 The dataset contains:
 x_train: Population of various cities (in 10,000s).
 y_train: Profit for a food franchise in those cities (in $10,000s).
