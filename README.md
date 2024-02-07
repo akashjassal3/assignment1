@@ -16,8 +16,11 @@ Negative profit values indicate a loss.
 4. Usage:
 
 i. Data Visualization: Initial plotting of the dataset to understand the distribution of data.
+
 ii. Cost Function: Implementation of the cost function to evaluate the model's performance.
+
 iii. Gradient Descent: Optimization of model parameters using gradient descent.
+
 iv. Prediction: Estimation of profits based on city population sizes.
 
 5. Requirements:
